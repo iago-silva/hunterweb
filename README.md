@@ -3,4 +3,4 @@
 
 ### References
 
-- https://skylab.rocketseat.com.br
+- https://skylab.rocketseat.com.br/node/curso-react-js
